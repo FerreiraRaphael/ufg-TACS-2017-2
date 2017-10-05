@@ -1,4 +1,17 @@
-Atividades de Técnicas Avançadas de Construção de Software
+## Atividades de Técnicas Avançadas de Construção de Software
+
+### Dependências
+- JDK 1.8
+- Maven
+
+### Instalação
+- Clonar repositório `git clone https://github.com/FerreiraRaphael/ufg-TACS-2017-2.git`
+- Instalar dependências `mvn install`
+
+### Comandos
+- Testes `mvn test`
+- Cobertura de Tests `mvn package` ou `mvn clean package`
+ - Cobertura pode ser vista em `$PROJECT_HOME/target/site/jacoco/index.html`
 
 ### [Bizz buzz - Testes automatizados](https://github.com/FerreiraRaphael/ufg-TACS-2017-2/pull/1)
 
