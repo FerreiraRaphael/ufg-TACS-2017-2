@@ -44,3 +44,15 @@ Entregue o endereço do repositório GitHub do seu projeto Maven com mais de 90%
 
 Faça um programa que verifique se um número é bissexto.
 Entregue o endereço do repositório GitHub do seu projeto Maven com mais de 90% de cobertura de teste.
+
+### [Números romanos - Testes automatizados](https://github.com/FerreiraRaphael/ufg-TACS-2017-2/pull/5)
+Faça um programa que receba uma String e faça a conversão dos números romanos de 1 até 4999.
+I=1, V=5 , X=10, L=50, C=100, D=500, M=1000
+Entregue o endereço do repositório GitHub do seu projeto Maven com mais de 90% de cobertura de teste.
+
+### [URL Válida - Testes automatizados](https://github.com/FerreiraRaphael/ufg-TACS-2017-2/pull/7)
+Dada uma URL, desenvolva um programa que indique se a URL é válida ou não e, caso seja válida, retorne as suas partes constituintes. Faça um validador. Não utilize uma API de validação.
+Exemplo:
+Entrada: http://www.google.com/mail/user=fulano.
+Saída: protocolo: http, host: www, domínio: google.com, path: mail, parâmetros: user=fulano.
+Entregue o endereço do repositório GitHub do seu projeto Maven com mais de 90% de cobertura de teste.
